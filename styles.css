@@ -1,0 +1,11 @@
+body{
+    height: 100%;
+    text-align: center;
+}
+button{
+    height: 100px;
+    width: 100px;
+    background-color: #97E589;
+    border: 1px solid black;
+    font-size: large;
+}
